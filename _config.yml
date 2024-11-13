@@ -20,12 +20,12 @@ footer-links:
   zhihu: 
   email: xxxxx@outlook.com
   facebook:
-  github: zhiufwer
+  github: luqi
   rss: # just type anything here for a working RSS icon
   twitter: 
   youtube:
 
-footer-text: Copyright (c) 2024 Pianfan
+footer-text: Copyright (c) 2024 luqi
 
 url: https://luqi.github.io
 
@@ -61,4 +61,3 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
-
