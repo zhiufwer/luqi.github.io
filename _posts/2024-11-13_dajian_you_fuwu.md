@@ -1,4 +1,11 @@
-本文档有多页，如未看见目录，请点击左上角三条横线/
+---
+layout: post
+title: "ipv6搭建节点"
+date:   2024-11-12
+tags: [deeplearning env setup]
+comments: true
+author: 鹿柒
+---
 
 ## ipv6搭建节点
 warp链接：
