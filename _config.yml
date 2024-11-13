@@ -1,8 +1,8 @@
 name: "luqi's blog"
 description: "鹿柒的个人技术博客"
 
-avatar: https://luqi.github.io/images/avatar.jpg
-favicon: https://luqi.github.io/images/favicon.ico
+avatar: https://zhiufwer.github.io/images/avatar.jpg
+favicon: https://zhiufwer.github.io/images/favicon.ico
 
 navigation:
   - name: 首页
@@ -20,14 +20,14 @@ footer-links:
   zhihu: 
   email: xxxxx@outlook.com
   facebook:
-  github: luqi
+  github: zhiufwer
   rss: # just type anything here for a working RSS icon
   twitter: 
   youtube:
 
-footer-text: Copyright (c) 2024 luqi
+footer-text: Copyright (c) 2024 zhiufwer
 
-url: https://luqi.github.io
+url: https://zhiufwer.github.io/
 
 permalink: /:title/
 paginate_path: /page:num/
