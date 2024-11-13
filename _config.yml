@@ -1,8 +1,8 @@
 name: "luqi's blog"
 description: "鹿柒的个人技术博客"
 
-avatar: https://luqi.github.io/images/avatar.png
-# favicon: https://luqi.github.io/images/favicon.ico
+avatar: https://luqi.github.io/images/avatar.jpg
+favicon: https://luqi.github.io/images/favicon.ico
 
 navigation:
   - name: 首页
@@ -18,9 +18,9 @@ excerpt_separator: <!-- more -->
 
 footer-links:
   zhihu: 
-  email: xx@outlook.com
+  email: xxxxx@outlook.com
   facebook:
-  github: luqi
+  github: zhiufwer
   rss: # just type anything here for a working RSS icon
   twitter: 
   youtube:
